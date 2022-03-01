@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-UserdetailsApplication<userdetails>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.user.userdetails.UserdetailsApplication",
+      "projectName": "userdetails",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ContactApplication<contact>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.contact.contact.ContactApplication",
+      "projectName": "contact",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-EurekaApplication<eureka>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.eserver.eureka.EurekaApplication",
+      "projectName": "eureka",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-EurekaApplication<eureka>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.eureka.eureka.EurekaApplication",
+      "projectName": "eureka",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ApigatewayApplication<apigateway>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.apigateway.apigateway.ApigatewayApplication",
+      "projectName": "apigateway",
+      "args": ""
+    }
+  ]
+}
